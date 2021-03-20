@@ -99,7 +99,7 @@ itsdangerous==1.1.0
 jamo==0.4.1
 jdcal==1.4.1
 jedi==0.14.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 JPype1==0.7.4
 json5==0.9.1
